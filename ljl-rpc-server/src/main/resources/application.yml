@@ -1,0 +1,13 @@
+server:
+  port: 8021
+
+spring:
+  application:
+    name: ljl-rpc-server
+
+zookeeper:
+  hosts: 127.0.0.1:2181
+  baseackage : com.ljl.server.service.Impl
+
+netty:
+  port: 8885
