@@ -2,6 +2,9 @@
 自己设计一个的轻量级的RPC框架 这个版本是Spring boot版本
 需要下载zookeeper
 
+ljl-rpc-starter 是RPC框架的源码
+ljl-rpc-server 是一个测试项目
+
 ## 1.配置文件
 ```
 zookeeper:
