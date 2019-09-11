@@ -3,13 +3,14 @@
 需要下载zookeeper
 
 ## 1.配置文件
+```
 zookeeper:
   hosts: 127.0.0.1:2181
   baseackage : com.ljl.server.service.Impl
 
 netty:
   port: 8885
-  
+```
 ## 2.扫描注解
 @RPCClientPackage(basePackage = "com.ljl.server.service")
 再启动类上加入你想要扫描的接口包
