@@ -24,7 +24,7 @@
 
 	<properties>
 		<java.version>1.8</java.version>
-		<jackson.version>2.9.8</jackson.version>
+		<jackson.version>2.12.1</jackson.version>
 		<springfox-swagger.version>2.7.0</springfox-swagger.version>
 		<swagger-annotations.version>1.5.13</swagger-annotations.version>
 		<ljl.version>1.0.0-SNAPSHOT</ljl.version>
